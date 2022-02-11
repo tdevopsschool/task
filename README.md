@@ -5,9 +5,7 @@
 The main goal is: Create CI/CD pipeline for depolying the app to k8s.
 
 Detailed description:
-1. Dockerize each component:
-  * https://github.com/tdevopsschool/dev-school-front-app
-  * https://github.com/tdevopsschool/dev-school-app
+1. Dockerize each component: [dev-school-front-app](https://github.com/tdevopsschool/dev-school-front-app) & [dev-school-app](https://github.com/tdevopsschool/dev-school-app)
 3. Implement simple smoke tests.
 4. [Create gitlab runners in AWS via terraform & ansible](https://github.com/tdevopsschool/cm#homework)
 5. Run the app in Kubernetes
